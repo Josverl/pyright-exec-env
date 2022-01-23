@@ -1,0 +1,347 @@
+[Info  - 16:47:00] Pylance language server 2022.1.3 (pyright 98868f26) starting
+[Info  - 16:47:00] Server root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist
+[Info  - 16:47:00] Setting pythonPath for service "pyright-exec-env": "C:\Users\josverl\AppData\Local\Programs\Python\Python39\python.exe"
+[Info  - 16:47:00] Loading configuration file at c:\develop\MyPython\pyright-exec-env\pyrightconfig.json
+[Info  - 16:47:00] Assuming Python version 3.9
+[Info  - 16:47:00] Assuming Python platform Windows
+[Info  - 16:47:00] No include entries specified; assuming c:\develop\MyPython\pyright-exec-env
+[Info  - 16:47:00] Auto-excluding **/node_modules
+[Info  - 16:47:00] Auto-excluding **/__pycache__
+[Info  - 16:47:00] Auto-excluding .git
+[Warn  - 16:47:00] stubPath c:\develop\MyPython\pyright-exec-env\typings is not a valid directory.
+[Info  - 16:47:00] Search paths for c:\develop\MyPython\pyright-exec-env\src\platform-esp32
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\src\platform-esp32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp8266
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\stm32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\typings
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\...
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\bundled\stubs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+[Info  - 16:47:00] Search paths for c:\develop\MyPython\pyright-exec-env\src\platform-esp8266
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\src\platform-esp8266
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp8266
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\stm32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\typings
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\...
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\bundled\stubs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+[Info  - 16:47:00] Search paths for c:\develop\MyPython\pyright-exec-env\src\platform-stm32
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\src\platform-stm32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\esp8266
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\stubs\stm32
+[Info  - 16:47:00]   c:\develop\MyPython\pyright-exec-env\typings
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\...
+[Info  - 16:47:00]   c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\bundled\stubs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39
+[Info  - 16:47:00]   c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+[Info  - 16:47:00] Adding fs watcher for library directories:
+ C:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+C:\Users\josverl\AppData\Local\Programs\Python\Python39\lib
+C:\Users\josverl\AppData\Local\Programs\Python\Python39
+C:\Users\josverl\AppData\Local\Programs\Python\Python39\lib\site-packages
+[Info  - 16:47:00] Adding fs watcher for directories:
+ c:\develop\MyPython\pyright-exec-env
+[Info  - 16:47:00] Searching for source files
+[Info  - 16:47:00] Found 20 source files
+[FG] parsing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (43ms)
+[FG] parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 5ms] (151ms)
+[FG] binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi (50ms)
+[FG] binding: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (0ms)
+[Info  - 16:47:00] Background analysis(1) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist
+[Info  - 16:47:00] Background analysis(1) started
+Background analysis message: setConfigOptions
+Background analysis message: setImportResolver
+Background analysis message: ensurePartialStubPackages
+IntelliCode model c:\Users\josverl\.vscode\extensions\visualstudioexptteam.vscodeintellicode-1.2.15\cache\E61945A9A512ED5E1A3EE3F1A2365B88F8FE_E4E9EADA96734F01970E616FAB2FAC19
+Background analysis message: ensurePartialStubPackages
+Background analysis message: ensurePartialStubPackages
+Background analysis message: setTrackedFiles
+Background analysis message: markAllFilesDirty
+Background analysis message: setFileOpened
+Background analysis message: getSemanticTokens full
+[BG(1)] getSemanticTokens full at c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (37ms)
+[Info  - 16:47:01] Indexer background runner(2) root directory: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist
+[Info  - 16:47:01] Indexing(2) started
+[BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 3ms] (168ms)
+[BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi (64ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (1ms)
+[BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing_extensions.pyi [fs read 2ms] (9ms)
+[BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing_extensions.pyi (2ms)
+[IDX(2)] index libraries c:\develop\MyPython\pyright-exec-env ...
+[IDX(2)]   read stdlib indices (196ms)
+[BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing.pyi [fs read 0ms] (53ms)
+[BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing.pyi (21ms)
+[BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\_typeshed\__init__.pyi [fs read 0ms] (20ms)
+[BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\_typeshed\__init__.pyi (3ms)
+[BG(1)]   parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\abc.pyi [fs read 0ms] (2ms)
+[BG(1)]   binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\abc.pyi (0ms)
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi [fs read 1ms] (19ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi (6ms)
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi [fs read 1ms] (5ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi (1ms)
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi [fs read 0ms] (1ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi (1ms)
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi [fs read 0ms] (29ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi (13ms)
+[BG(1)] getSemanticTokens full at c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (501ms)
+Background analysis message: analyze
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (3ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (4ms)
+Background analysis message: getSemanticTokens range
+[BG(1)] getSemanticTokens range 0:0 - 9:0 at c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (0ms)
+Background analysis message: resumeAnalysis
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\script-1.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\script-1.py [fs read 0ms] (14ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\script-1.py (0ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\script-1.py (1ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\script-1.py (16ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py [fs read 1ms] (2ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py (0ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py (2ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py (5ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\script-2.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\src\script-2.py [fs read 0ms] (1ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\src\script-2.py (0ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\src\script-2.py (1ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\script-2.py (2ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py [fs read 0ms] (9ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py (1ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py (1ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py (11ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py [fs read 3ms] (12ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py (0ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py (1ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py (13ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py [fs read 1ms] (3ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py (2ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py (13ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py (18ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi (4ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi (4ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py [fs read 1ms] (11ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py (2ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py (49ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py (62ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi (14ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi (14ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py [fs read 0ms] (17ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py (9ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py (97ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py (124ms)
+Background analysis message: resumeAnalysis
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi (44ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi (44ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py [fs read 1ms] (3ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py (4ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py (8ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py (15ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi [fs read 0ms] (1ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi (1ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi (4ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi (6ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py [fs read 1ms] (14ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py (4ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py (70ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py (88ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi [fs read 1ms] (5ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi (4ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi (35ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi (44ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py [fs read 1ms] (46ms)
+[IDX(2)]   scan packages [found 63 modules over 3 exec env] (699ms)
+[IDX(2)]   index execution environment c:\develop\MyPython\pyright-exec-env\src\platform-esp32 ...
+[IDX(2)]     parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi [fs read 0ms] (39ms)
+[IDX(2)]     parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi [fs read 3ms] (91ms)
+[IDX(2)]     binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\builtins.pyi (13ms)
+[IDX(2)]     binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi (1ms)
+[IDX(2)]     indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi [found 15] (1ms)
+[IDX(2)]     parsing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi [fs read 1ms] (10ms)
+[IDX(2)]     binding: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi (1ms)
+[IDX(2)]     indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi [found 46] (1ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\xml\__init__.py [fs read 0ms] (0ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\xml\__init__.py (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\xml\__init__.py [found 0] (0ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\__init__.py [fs read 0ms] (1ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\__init__.py (0ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py (7ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py (82ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py (135ms)
+Loading ONNX runtime...
+Loaded ONNX runtime. Creating IntelliCode session...
+Created IntelliCode session.
+Initialize deeplearning succeeded
+Background analysis message: resumeAnalysis
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi [fs read 0ms] (7ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi (6ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi (53ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi (66ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py [fs read 1ms] (17ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py (10ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\__init__.py ...
+[IDX(2)]       parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\api.py [fs read 1ms] (36ms)
+[IDX(2)]       binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\api.py (1ms)
+[IDX(2)]       parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\error.py [fs read 0ms] (1ms)
+[IDX(2)]       binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\error.py (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cffi\__init__.py [found 5] (39ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__init__.py [fs read 0ms] (4ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__init__.py (1ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__init__.py ...
+[IDX(2)]       parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__about__.py [fs read 1ms] (2ms)
+[IDX(2)]       binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__about__.py (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\cryptography\__init__.py [found 4] (2ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\ecdsa\__init__.py [fs read 0ms] (12ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\ecdsa\__init__.py (1ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\ecdsa\__init__.py [found 4] (1ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\mpy_cross\__init__.py [fs read 0ms] (6ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\mpy_cross\__init__.py (1ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\mpy_cross\__init__.py [found 2] (0ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\__init__.py [fs read 0ms] (1ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\__init__.py (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\__init__.py ...
+[IDX(2)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing.pyi [fs read 1ms] (27ms)
+[IDX(2)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\typing.pyi (5ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pip\__init__.py [found 4] (33ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pkg_resources\__init__.py [fs read 0ms] (87ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pkg_resources\__init__.py (7ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pkg_resources\__init__.py ...
+[IDX(2)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\pkgutil.pyi [fs read 0ms] (6ms)
+[IDX(2)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stdlib\pkgutil.pyi (1ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pkg_resources\__init__.py [found 71] (9ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pycparser\__init__.py [fs read 0ms] (2ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pycparser\__init__.py (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\pycparser\__init__.py [found 1] (1ms)
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py (142ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py (169ms)
+[IDX(2)]     parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\__init__.py [fs read 0ms] (31ms)
+[IDX(2)]     binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\__init__.py (1ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\__init__.py ...
+[IDX(2)]       parsing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\_deprecation_warning.py [fs read 1ms] (1ms)
+[IDX(2)]       binding: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\_deprecation_warning.py (0ms)
+[IDX(2)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\extension.pyi [fs read 0ms] (1ms)
+[IDX(2)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\extension.pyi (0ms)
+Background analysis message: resumeAnalysis
+[IDX(2)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\dist.pyi [fs read 0ms] (4ms)
+[IDX(2)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\dist.pyi (0ms)
+[IDX(2)]       parsing: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\depends.pyi [fs read 1ms] (1ms)
+[IDX(2)]       binding: c:\Users\josverl\.vscode\extensions\ms-python.vscode-pylance-2022.1.3\dist\typeshed-fallback\stubs\setuptools\setuptools\depends.pyi (0ms)
+[IDX(2)]     indexing: c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages\setuptools\__init__.py [found 8] (7ms)
+[IDX(2)]   index execution environment c:\develop\MyPython\pyright-exec-env\src\platform-esp32 [found 8968 in 431 files] (419ms)
+[IDX(2)]   index execution environment c:\develop\MyPython\pyright-exec-env\src\platform-esp8266 [found 8968 in 431 files] (6ms)
+[IDX(2)]   index execution environment c:\develop\MyPython\pyright-exec-env\src\platform-stm32 [found 8968 in 431 files] (5ms)
+[IDX(2)] index libraries c:\develop\MyPython\pyright-exec-env [found 26904 in 3 exec envs] (1329ms)
+[Info  - 16:47:02] Indexer done(2). indexed 1293 files
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi (38ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi (38ms)
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\script-1.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\script-1.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\foobar\script-3.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\src\script-2.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\src\script-2.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\src\platform-esp8266\script-esp8266.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\src\platform-stm32\script-stm32.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py [found 15] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi [found 15] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py [found 14] (1ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi [found 14] (1ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\esp32.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py [found 46] (3ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi [found 46] (5ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp32\machine.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py [found 22] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi [found 22] (1ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\esp.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py [found 34] (1ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi [found 34] (1ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\esp8266\machine.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py [found 36] (9ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi [found 36] (4ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\stm32\machine.pyi
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py [found 53] (8ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.py
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi [found 53] (3ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\stubs\stm32\pyb.pyi
+Background analysis message: setFileOpened
+Background analysis message: markFilesDirty
+Background analysis message: setFileOpened
+Background analysis message: markFilesDirty
+[FG] parsing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (5ms)
+[FG] binding: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (2ms)
+Background analysis message: getSemanticTokens delta
+[BG(1)] getSemanticTokens delta previousResultId:1642952821174 at c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py ...
+[BG(1)]   parsing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (0ms)
+[BG(1)]   binding: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (0ms)
+[BG(1)] getSemanticTokens delta previousResultId:1642952821174 at c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (9ms)
+Background analysis message: analyze
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py ...
+[BG(1)]   checking: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (2ms)
+[BG(1)] analyzing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py (2ms)
+Background analysis message: resumeAnalysis
+[BG(1)] indexing: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py [found 0] (0ms)
+Indexing Done: c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'importlib\__pycache__\__init__.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\importlib\__pycache__\__init__.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path '__pycache__\warnings.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\__pycache__\warnings.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\importlib\__pycache__\machinery.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'importlib\__pycache__\machinery.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'importlib\__pycache__\util.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\importlib\__pycache__\util.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\importlib\__pycache__\abc.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\__pycache__\typing.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'importlib\__pycache__\abc.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path '__pycache__\typing.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\collections\__pycache__\abc.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'collections\__pycache__\abc.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path '__pycache__\contextlib.cpython-39.pyc'}'
+[Info  - 16:47:28] LibraryFile: Received fs event 'change' for path 'Lib\__pycache__\contextlib.cpython-39.pyc'}'
+[Info  - 16:47:29] SourceFile: Received fs event 'change' for path 'c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py'
+Background analysis message: markFilesDirty
+Background analysis message: analyze
+[Info  - 16:47:29] SourceFile: Received fs event 'change' for path 'c:\develop\MyPython\pyright-exec-env\src\platform-esp32\script-esp32.py'
+Background analysis message: markFilesDirty
+Background analysis message: analyze

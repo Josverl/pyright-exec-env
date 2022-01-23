@@ -1,0 +1,49 @@
+PS C:\develop\MyPython\pyright-exec-env> pyright
+Loading configuration file at C:\develop\MyPython\pyright-exec-env\pyrightconfig.json
+Assuming Python version 3.9
+Assuming Python platform Windows
+No include entries specified; assuming C:\develop\MyPython\pyright-exec-env
+Auto-excluding **/node_modules
+Auto-excluding **/__pycache__
+Auto-excluding .git
+stubPath C:\develop\MyPython\pyright-exec-env\typings is not a valid directory.
+Search paths for C:\develop\MyPython\pyright-exec-env\src\platform-esp32
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stdlib
+  C:\develop\MyPython\pyright-exec-env\src\platform-esp32
+  C:\develop\MyPython\pyright-exec-env\stubs\esp32
+  C:\develop\MyPython\pyright-exec-env\stubs\esp8266
+  C:\develop\MyPython\pyright-exec-env\stubs\stm32
+  C:\develop\MyPython\pyright-exec-env\typings
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stubs\...
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+Search paths for C:\develop\MyPython\pyright-exec-env\src\platform-esp8266
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stdlib
+  C:\develop\MyPython\pyright-exec-env\src\platform-esp8266
+  C:\develop\MyPython\pyright-exec-env\stubs\esp32
+  C:\develop\MyPython\pyright-exec-env\stubs\esp8266
+  C:\develop\MyPython\pyright-exec-env\stubs\stm32
+  C:\develop\MyPython\pyright-exec-env\typings
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stubs\...
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+Search paths for C:\develop\MyPython\pyright-exec-env\src\platform-stm32
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stdlib
+  C:\develop\MyPython\pyright-exec-env\src\platform-stm32
+  C:\develop\MyPython\pyright-exec-env\stubs\esp32
+  C:\develop\MyPython\pyright-exec-env\stubs\esp8266
+  C:\develop\MyPython\pyright-exec-env\stubs\stm32
+  C:\develop\MyPython\pyright-exec-env\typings
+  C:\Users\josverl\AppData\Local\pnpm\node_modules\pyright\dist\typeshed-fallback\stubs\...
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\DLLs
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39
+  c:\Users\josverl\AppData\Local\Programs\Python\Python39\Lib\site-packages
+Searching for source files
+Found 20 source files
+0 errors, 0 warnings, 0 informations 
+Completed in 1.31sec

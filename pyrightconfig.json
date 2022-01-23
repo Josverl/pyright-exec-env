@@ -11,22 +11,22 @@
     "logLevel": "Trace",
     "executionEnvironments": [
         {
-            "root": "src/esp32",
+            "root": "src/platform-esp32",
             "extraPaths": [
                 "./stubs/esp32",
             ]
         },
         {
-            "root": "src/esp8266",
+            "root": "src/platform-esp8266",
             "extraPaths": [
                 "./stubs/esp8266",
             ]
         },
         {
-            "root": "src/stm32",
+            "root": "src/platform-stm32",
             "extraPaths": [
                 "./stubs/stm32",
             ]
-        },
+        }
     ]
 }
