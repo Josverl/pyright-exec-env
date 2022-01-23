@@ -1,0 +1,32 @@
+// https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+{
+    "include": [],
+    "exclude": [],
+    "ignore": [],
+    "verboseOutput": true,
+    "reportMissingImports": "error",
+    "reportMissingModuleSource": "none",
+    "reportMissingTypeStubs": "warning",
+    "extraPaths": [],
+    "logLevel": "Trace",
+    "executionEnvironments": [
+        {
+            "root": "src/esp32",
+            "extraPaths": [
+                "./stubs/esp32",
+            ]
+        },
+        {
+            "root": "src/esp8266",
+            "extraPaths": [
+                "./stubs/esp8266",
+            ]
+        },
+        {
+            "root": "src/stm32",
+            "extraPaths": [
+                "./stubs/stm32",
+            ]
+        },
+    ]
+}
