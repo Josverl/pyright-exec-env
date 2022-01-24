@@ -7,7 +7,9 @@
     "reportMissingImports": "error",
     "reportMissingModuleSource": "none",
     "reportMissingTypeStubs": "warning",
+    // BUG: see : https://github.com/microsoft/pyright/issues/2924 
     "extraPaths": [],
+    //
     "logLevel": "Trace",
     "executionEnvironments": [
         {
